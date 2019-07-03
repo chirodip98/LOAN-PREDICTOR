@@ -1,2 +1,3 @@
 # LOAN-PREDICTOR
 The project attempts to to predict wether the loan will be sanctioned or not ....
+using simple Classification Algorithms , namely Logistic Regression and Decision Tree Regression
