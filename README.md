@@ -8,5 +8,4 @@ This project involves certain steps of preprocessing, validation etc. that are u
 Here are the algorithms that I used:
 
 1. Naive Bayes
-
 2.Logistic Regression
